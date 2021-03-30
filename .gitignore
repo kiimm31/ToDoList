@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs
+/ToDoList/.vs/ToDoList
+/ToDoList/bin/Debug/netcoreapp3.1
+/ToDoList/obj
+/ToDoList.Domain/bin/Debug/netstandard2.1
+/ToDoList.Domain/obj
+/ToDoList.Infrastructure/obj
+/ToDoList.UI/bin/Debug/netcoreapp3.1
+/ToDoList.UI/obj
+/ToDoList.UnitTest/bin/Debug/netcoreapp3.1
+/ToDoList.UnitTest/obj
